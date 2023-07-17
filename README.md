@@ -11,9 +11,6 @@
 ### 추가 주제 : 재능 기부 게시판을 통한 약속 나누기
 - 재능 또는 도움이 필요한 사람들에게 도움을 나눠줄 수 있고, 나눔을 요청할 수 있는 기능 추가
 
- FE github : https://github.com/Yoepee/Week8.git
-
- BE github : https://github.com/LimeKIWI/Week8.git
  
 
 <div align=center><h1>기술 📚 STACKS</h1></div>
